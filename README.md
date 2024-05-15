@@ -22,5 +22,5 @@ Bu proje, IntersectionObserver kullanarak kaydırma pozisyonuna göre aktif böl
 Clone the repository / Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/byldrma3/byldrma3-intersection-observer-menu.git
+git clone https://github.com/byldrma3/intersection-observer-menu.git
 ```
