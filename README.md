@@ -17,6 +17,8 @@ Bu proje, IntersectionObserver kullanarak kaydırma pozisyonuna göre aktif böl
   2. Görünen bölüme göre aktif menü öğesini vurgulama.
   3. Performans ve doğruluk için IntersectionObserver kullanımı.
 
+![Demo](./assets/demo.gif)
+
 ## Installation / Kurulum
 
 Clone the repository / Depoyu klonlayın:
