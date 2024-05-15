@@ -6,13 +6,16 @@ Bu proje, IntersectionObserver kullanarak kaydırma pozisyonuna göre aktif böl
 
 ## Features / Özellikler
 
-- Smooth scrolling to sections upon clicking menu items.
-- Highlighting active menu item based on the visible section.
-- Uses IntersectionObserver for performance and accuracy.
+- EN
 
-- Menü öğelerine tıklanıldığında bölümlere yumuşak kaydırma.
-- Görünen bölüme göre aktif menü öğesini vurgulama.
-- Performans ve doğruluk için IntersectionObserver kullanımı.
+  1. Smooth scrolling to sections upon clicking menu items.
+  2. Highlighting active menu item based on the visible section.
+  3. Uses IntersectionObserver for performance and accuracy.
+
+- TR
+  1. Menü öğelerine tıklanıldığında bölümlere yumuşak kaydırma.
+  2. Görünen bölüme göre aktif menü öğesini vurgulama.
+  3. Performans ve doğruluk için IntersectionObserver kullanımı.
 
 ## Installation / Kurulum
 
