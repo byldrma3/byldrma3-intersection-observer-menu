@@ -5,6 +5,9 @@
   --active-bg-color: #eee;
   --text-white: #fff;
   --font-family: "JetBrains Mono", sans-serif;
+  overscroll-behavior: contain;
+  scroll-snap-stop: always;
+  scroll-snap-type: both mandatory;
 }
 
 *,
@@ -69,10 +72,11 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   width: 100%;
+  height: 100vh;
   font-size: 104px;
   color: var(--text-white);
+  scroll-snap-align: start;
 }
 
 .item:nth-child(1) {
